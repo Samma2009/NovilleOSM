@@ -28,7 +28,12 @@ regs have different values, they are di, si, bp, sp, bx, dx, cx, ax, gs, fs, es,
 ```C
 regs.ax = 0x0000;
 ```
+
 and retrived like this
 ```C
 return regs.ax; //return is not necessary
 ```
+## Correlated:
+- [C coding](https://samma2009.github.io/NovilleOSM/Ccoding)
+- [Drawing functions in C]()
+- [input functions in C](https://samma2009.github.io/NovilleOSM/inputC)
