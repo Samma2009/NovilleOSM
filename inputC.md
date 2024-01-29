@@ -58,3 +58,8 @@ SetCursorPos set the position of the virtual cursor in CLI mode
 SetCursorPos(X,Y);
 ```
 the example code shown set the virual cursor's position to X and Y
+
+## Correlateds
+- [C coding](https://samma2009.github.io/NovilleOSM/Ccoding)
+- [Drawing functions in C]()
+- [k_memset int32 and regs](https://samma2009.github.io/NovilleOSM/Kadvanceds)
