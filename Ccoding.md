@@ -14,4 +14,4 @@ this is the coding view, there is already an example. from now on you can make f
 ## Correlated
 - [Drawing functions in C]()
 - [input functions in C]()
-- [k_memset int32 and regs]()
+- [k_memset int32 and regs](https://samma2009.github.io/NovilleOSM/Kadvanceds)
