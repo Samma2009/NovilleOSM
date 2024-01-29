@@ -1,6 +1,6 @@
 # Welcome to the NovilleOSM wiki
 ## Get started
-- [Basics]()
+- [Basics](https://samma2009.github.io/NovilleOSM/Basics)
 - [I/O]()
 - [Graphycs]()
 - [Logic]()
