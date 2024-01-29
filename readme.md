@@ -1,5 +1,11 @@
 # Welcome to the NovilleOSM wiki
 ## Get started
+- [Basics]()
+- [I/O]()
+- [Graphycs]()
+- [Logic]()
+- [Variables]()
+- [Functions]()
 
 ## Advanced
 - [C coding](https://samma2009.github.io/NovilleOSM/Ccoding)
