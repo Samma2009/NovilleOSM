@@ -18,4 +18,17 @@ int32(0x10, &regs);
 the example code shown swiches between VGA and TUI mode, the first argument is the interrupt to call and the second one is the register instance to use (it should always be referenced with & before the variablename)
 
 ## regs
-this is a set of values that is used by interrupt
+regs are a set of value used by interrupts
+
+```C
+regs16_t regs;
+```
+the example shown above is how you can define an instance of regs, some fuctions like `k_InitVGA` and `k_waitKey` need regs as an argument, regs should alway be passed as a reference (`&`).
+regs have different values, they are di, si, bp, sp, bx, dx, cx, ax, gs, fs, es, ds and eflags. those value can be setted like this
+```C
+regs.ax = 0x0000;
+```
+and retrived like this
+```C
+return regs.ax; //return is not necessary
+```
