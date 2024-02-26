@@ -1,5 +1,6 @@
 # Welcome to the NovilleOSM wiki
 ## Get started
+- [Installation](https://samma2009.github.io/NovilleOSM/Install)
 - [Basics](https://samma2009.github.io/NovilleOSM/Basics)
 - [I/O]()
 - [Graphycs]()
